@@ -16,7 +16,7 @@ int main()
   }
   if (op=='-') 
   {
-    c=a-d;
+    c=a-b;
     printf ("%f", c) ;
   }
   if(op=='*') 
